@@ -20,3 +20,6 @@ Awesome Lists of Machine Learning
 
 ## Books 
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+## Open source framworks
+* [Open source chatbot framworks](https://blog.verloop.io/the-best-open-source-chatbot-platforms-in-2019/)
